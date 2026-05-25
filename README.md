@@ -1,5 +1,5 @@
 # plant-microbe-fire-effects-LLP
-Code and files for our work on the impacts of fire regimes on plants and soil microbes
+Code and files for our work on the impacts of fire regimes on plants and soil microbes.
 
 This repository contains processed data, metadata, and R scripts associated with the manuscript examining the effects of prescribed fire frequency on plant, fungal, and bacterial communities in longleaf pine ecosystems.
 
@@ -13,8 +13,8 @@ sequence data/ Raw sequencing reads are available through the NCBI Sequence Read
 
 software/ Analyses were conducted in: R QIIME2 version 2022.11
 
-Scripts were organized by community type: 
+Scripts were organized by type: 
 1) Fire manuscript code_2026.R
-Contains: bacterial community analyses (16S), fungal community analyses (ITS), and plant community analyses in manuscript 
+Contains: bacterial community analyses (16S), fungal community analyses (ITS), and plant community analyses in manuscript
 3) Fire manuscript code_2026 only soil.R
 Contains: soil nutrient analysis in manuscript
